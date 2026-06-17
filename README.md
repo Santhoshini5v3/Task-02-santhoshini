@@ -10,7 +10,7 @@ A responsive Restaurant Website developed using HTML, CSS, and JavaScript. The w
 * Attractive homepage layout
 * Food menu section
 * About Us section
-* Contact section
+* Booking section
 * Modern and interactive user interface
 
 ## Technologies Used
@@ -29,7 +29,7 @@ A responsive Restaurant Website developed using HTML, CSS, and JavaScript. The w
 
 ![Menu Section](screenshots/02-menu.png)
 
-### Featured Dishes
+### Events 
 
 ![events](screenshots/03-events.png)
 
@@ -37,12 +37,12 @@ A responsive Restaurant Website developed using HTML, CSS, and JavaScript. The w
 
 ![About us](screenshots/04-about.png)
 
-### Contact Section
+### Booking Section
 
 ![booking Section](screenshots/05-booking.png)
 
 ## Author
 
-Santhoshini Mogaveera
+K.Santhoshini Mogaveera
 
 
