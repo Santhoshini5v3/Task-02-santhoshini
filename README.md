@@ -1,23 +1,48 @@
 # Task 02 - Restaurant Website
 
 ## Description
-A responsive Restaurant Website developed using HTML, CSS, and JavaScript. The website showcases the restaurant's menu, special offers, services, and contact information with a modern and user-friendly design.
+
+A responsive Restaurant Website developed using HTML, CSS, and JavaScript. The website provides information about the restaurant, menu items, services, and contact details through an attractive and user-friendly interface.
 
 ## Features
-- Responsive design for mobile and desktop devices
-- Attractive homepage with restaurant branding
-- Menu section displaying food items
-- About Us section
-- Contact information section
-- Interactive user interface
+
+* Responsive design for mobile and desktop devices
+* Attractive homepage layout
+* Food menu section
+* About Us section
+* Contact section
+* Modern and interactive user interface
 
 ## Technologies Used
-- HTML5
-- CSS3
-- JavaScript
 
-## Project Objective
-The objective of this project is to create a visually appealing and responsive restaurant website that provides users with information about the restaurant and its offerings.
+* HTML5
+* CSS3
+* JavaScript
+
+## Screenshots
+
+### Homepage
+
+![view](screenshots/01-view.png)
+
+### Menu Section
+
+![Menu Section](screenshots/02-menu.png)
+
+### Featured Dishes
+
+![events](screenshots/03-events.png)
+
+### About Us Section
+
+![About us](screenshots/04-about.png)
+
+### Contact Section
+
+![booking Section](screenshots/05-booking.png)
 
 ## Author
-K.Santhoshini Mogaveera
+
+Santhoshini Mogaveera
+
+
